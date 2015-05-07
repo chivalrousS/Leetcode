@@ -1,5 +1,4 @@
 package leetcode;
-import java.awt.HeadlessException;
 import java.util.*;
 
 //Reverse a singly linked list.
